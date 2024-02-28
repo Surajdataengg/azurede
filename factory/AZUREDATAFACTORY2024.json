@@ -1,0 +1,9 @@
+{
+	"name": "AZUREDATAFACTORY2024",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1ce8cf16-f743-4aec-ab89-7994cd81bad7",
+		"tenantId": "ae99cda3-978c-4370-a08f-f60cc0e699e3"
+	}
+}
